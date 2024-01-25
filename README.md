@@ -1,4 +1,4 @@
-# SQL Data Analysis exercises on sakila database.
+# SQL Data Analysis exercises on sakila database in MySQL.
 
 ### Before running the queries make sure sakila database is installed.
 
